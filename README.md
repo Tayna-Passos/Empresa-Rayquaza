@@ -4,7 +4,6 @@ Este projeto consiste em uma Landing Page institucional moderna e responsiva, de
 🚀 **[CLIQUE AQUI PARA VISUALIZAR O PROJETO](https://tayna-passos.github.io/Empresa-Rayquaza/)**
 
 ✨ Funcionalidades e Diferenciais
-Design Responsivo (Mobile-First): A interface foi projetada para se adaptar perfeitamente a smartphones, tablets e desktops, utilizando técnicas de CSS Flexbox e Grid.
 
 Menu de Navegação Fluido: Facilita a experiência do usuário (UX) permitindo o acesso rápido às diferentes seções da empresa (Home, Serviços, Sobre, Contato).
 
