@@ -1,30 +1,27 @@
-🐉 Empresa Rayquaza - Landing Page
-Este projeto consiste em uma Landing Page institucional moderna e responsiva, desenvolvida para simular a interface de uma empresa de tecnologia e inovação. O foco principal foi a aplicação de conceitos de Design UI/UX, organização de seções e acessibilidade entre dispositivos.
+🏢 Empresa Rayquaza - Landing Page Original
+O Empresa Rayquaza é um projeto de site institucional (Landing Page) desenvolvido para apresentar uma marca de forma profissional e direta. Foi o primeiro passo na construção da identidade "Rayquaza", focando na estruturação de conteúdo e design de interface.
 
-🚀 **[CLIQUE AQUI PARA VISUALIZAR O PROJETO](https://tayna-passos.github.io/Empresa-Rayquaza/)**
+🔗 Link do Projeto
+Visualize aqui: https://tayna-passos.github.io/Empresa-Rayquaza/
 
-✨ Funcionalidades e Diferenciais
+🎯 Objetivo do Projeto
+Criar uma presença online sólida para uma empresa fictícia, garantindo que as informações principais (Serviços, Sobre e Contacto) sejam apresentadas de forma clara e visualmente apelativa.
 
-Menu de Navegação Fluido: Facilita a experiência do usuário (UX) permitindo o acesso rápido às diferentes seções da empresa (Home, Serviços, Sobre, Contato).
+🚀 Funcionalidades Principais
+Design Institucional: Layout focado em conversão e apresentação de marca.
 
-Identidade Visual Forte: Uso estratégico de cores e tipografia para transmitir modernidade e autoridade.
+Seções Estruturadas: Cabeçalho de navegação, apresentação de serviços e rodapé informativo.
 
-Seção de Contato Estruturada: Pronta para integração com APIs de formulário ou backend.
+Estilização Customizada: Uso de CSS para criar uma identidade visual única e consistente.
+
+Navegação Semântica: HTML estruturado para acessibilidade e organização.
 
 🛠️ Tecnologias Utilizadas
-HTML5: Estruturação semântica de todo o conteúdo para melhor indexação em motores de busca (SEO).
+HTML5: Estrutura semântica das seções.
 
-CSS3: Estilização avançada, incluindo o uso de variáveis, transições suaves e layout responsivo.
+CSS3: Estilização, fontes personalizadas e layout.
 
-JavaScript: (Se houver interatividade) Utilizado para manipulação dinâmica de elementos e comportamento do menu mobile.
+JavaScript (Básico): Interações simples para melhorar a experiência do utilizador.
 
-🧠 Competências Demonstradas
-Ao desenvolver este projeto, apliquei e consolidei as seguintes competências técnicas:
-
-Web Design Responsivo: Garantia de que a experiência do usuário seja consistente, independentemente do tamanho da tela.
-
-Arquitetura de Informação: Organização lógica das seções para guiar o olhar do visitante e converter interesse em contato.
-
-Hospedagem e Deploy: Configuração completa através do GitHub Pages para publicação em ambiente de produção.
-
-Clean Code: Código estruturado de forma legível, facilitando futuras manutenções e escalabilidade.
+📈 Evolução: Do 1.0 ao 2.0
+Este projeto serviu de base para o desenvolvimento do Rayquaza 2.0, onde a ideia evoluiu de um site estático para uma ferramenta dinâmica com integração de APIs de terceiros (CEP e Clima).
