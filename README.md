@@ -1,7 +1,7 @@
 🐉 Empresa Rayquaza - Landing Page
 Este projeto consiste em uma Landing Page institucional moderna e responsiva, desenvolvida para simular a interface de uma empresa de tecnologia e inovação. O foco principal foi a aplicação de conceitos de Design UI/UX, organização de seções e acessibilidade entre dispositivos.
 
-🚀 **[CLIQUE AQUI PARA JOGAR](https://tayna-passos.github.io/Empresa-Rayquaza/)**
+🚀 **CLIQUE AQUI PARA VISUALIZAR O PROJETO(https://tayna-passos.github.io/Empresa-Rayquaza/)**
 
 ✨ Funcionalidades e Diferenciais
 Design Responsivo (Mobile-First): A interface foi projetada para se adaptar perfeitamente a smartphones, tablets e desktops, utilizando técnicas de CSS Flexbox e Grid.
