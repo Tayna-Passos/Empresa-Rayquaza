@@ -1,5 +1,5 @@
 🏢 Empresa Rayquaza - Landing Page Original
-O Empresa Rayquaza é um projeto de site institucional (Landing Page) desenvolvido para apresentar uma marca de forma profissional e direta. Foi o primeiro passo na construção da identidade "Rayquaza", focando na estruturação de conteúdo e design de interface.
+A Empresa Rayquaza é um projeto de site institucional (Landing Page) desenvolvido para apresentar uma marca de forma profissional e direta. Foi o primeiro passo na construção da identidade "Rayquaza", focando na estruturação de conteúdo e design de interface.
 
 🔗 Link do Projeto
 Visualize aqui: https://tayna-passos.github.io/Empresa-Rayquaza/
